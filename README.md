@@ -1,6 +1,6 @@
 # Bootcamp - Machine Learning Architect
 
-Set of python notebooks developed during the Bootcamp of Machine Learning Architect provided by IGTI.
+Set of python notebooks developed during the Bootcamp of Machine Learning Architect provided by XP Educação.
 
 The bootcamp covered different topics in the mahine learning field, such as:
 
